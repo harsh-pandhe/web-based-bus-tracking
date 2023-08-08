@@ -63,6 +63,6 @@ The web portal offers an intuitive user interface with dedicated sections for va
 
 ## Feedback and Support
 
-We greatly appreciate your feedback, which aids us in continually improving the Bus Management Web Portal for Teachers. If you encounter any issues, require assistance, or have suggestions for enhancement, please contact our dedicated support team at <support@busportal.com>.
+We greatly appreciate your feedback, which aids us in continually improving the Bus Management Web Portal for Teachers. If you encounter any issues, require assistance, or have suggestions for enhancement, please contact our dedicated support team at <harshpandhehome@gmail.com>.
 
 Thank you for choosing the Bus Management Web Portal for Teachers! This README guide aims to provide you with a comprehensive understanding of the portal's features and functionalities, enabling you to effectively manage school bus details and communicate seamlessly with students.
